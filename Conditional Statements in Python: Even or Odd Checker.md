@@ -21,7 +21,7 @@ else:
 ```
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/dc12a3dc-75d6-415c-a76e-86eae6fbf1c7" />
+<img width="380" height="304" alt="Screenshot 2025-12-27 093825" src="https://github.com/user-attachments/assets/de51d97a-6b52-4d7e-a8e9-1e6fbeb3f7e6" />
 
 
 
